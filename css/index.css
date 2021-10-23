@@ -1,0 +1,67 @@
+* {
+    box-sizing: border-box;
+    margin: 2px;
+    padding: 3px;
+  }
+
+  body {
+    background-color: deepskyblue;
+    font-family: Raleway;
+  }
+
+  #seaInt{
+      font-family: 'Franklin Gothic Medium';
+  }
+
+  a {
+    text-decoration: none;
+    font-family: Raleway;
+  }
+
+  #container {
+    margin: auto;
+    max-width: 550px;
+    padding: 100px;
+    opacity: 80%;
+  }
+
+  .form-wrap {
+    background-color: white;
+  }
+
+  .form-wrap h2, .form-wrap h1,.form-wrap p {
+    text-align: center;
+  }
+
+  .form-wrap .form-group {
+    font-family: Raleway;
+  }
+
+  .form-wrap .form-group label {
+    display: block;
+  }
+
+  .form-wrap .form-group input {
+    padding: 5px;
+    width: 315px;
+  }
+
+  .form-wrap button {
+    width: 300px;
+    background-color: #49c1a2;
+    padding: 10px;
+    color: white;
+    border: none;
+    border-radius: 5px;   
+    margin-top: 5%;
+    margin-left: 4%; 
+    margin-bottom: 5%;
+  }
+
+  .form-wrap button:hover {
+    background-color: #37a08e;
+  }
+
+  .form-wrap .bottom-text {
+    font-size: 14px;
+  }
